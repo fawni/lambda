@@ -38,6 +38,40 @@ a:hover {
   text-decoration: underline;
 }
 
-.acc {
+/* .acc {
   color: var(--accent);
+} */
+
+acc {
+  color: var(--accent);
+}
+
+::selection {
+  background: var(--accent-color);
+  color: #fff;
+}
+
+@media (max-width: 500px) {
+  html,
+  body {
+    display: inherit !important;
+  }
+
+  body {
+    padding: 2rem;
+  }
+
+  main {
+    width: 100%;
+  }
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+s {
+  text-decoration: line-through;
 }
