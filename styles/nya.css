@@ -12,7 +12,6 @@
 
 html,
 body {
-  /* colors taken from fairyfloss */
   background: #262626;
   color: #f8f8f0;
 
@@ -37,10 +36,6 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
-/* .acc {
-  color: var(--accent);
-} */
 
 acc {
   color: var(--accent);
