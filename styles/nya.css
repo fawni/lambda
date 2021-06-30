@@ -37,3 +37,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+.acc {
+  color: var(--accent);
+}
