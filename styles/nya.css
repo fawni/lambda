@@ -46,7 +46,7 @@ acc {
   color: #fff;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   html,
   body {
     display: inherit !important;
