@@ -1,3 +1,4 @@
+@import url("https://git.x4.pm/obscurity/iosevka-comfy/src/branch/master/iosevka-comfy.css");
 @font-face {
   font-family: CascadiaCode;
   src: url("https://slowstab.github.io/addons/fonts/CascadiaCode/woff2/CascadiaCode.woff2")
@@ -15,7 +16,7 @@ body {
   background: #262626;
   color: #f8f8f0;
 
-  font-family: CascadiaCode;
+  font-family: "Iosevka Comfy";
   font-size: 16px;
   line-height: 1.8;
 
