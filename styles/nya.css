@@ -2,7 +2,6 @@
 
 :root {
 	--accent: #a57562;
-	--accent-lighter: #b48a79;
 	--background: #262626;
 	--text: #f8f8f0;
 }
@@ -31,7 +30,7 @@ a {
 }
 
 a:hover {
-	color: var(--accent-lighter);
+	color: var(--accent);
 	text-decoration: underline;
 }
 
