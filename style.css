@@ -1,4 +1,10 @@
-@import url("https://fawni.github.io/addons/fonts.css");
+@font-face {
+  font-family: "Unifont";
+  src: local("Unifont"), url("./unifont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 :root {
   --accent: #e23a7e;
