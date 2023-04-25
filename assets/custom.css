@@ -1,0 +1,15 @@
+body,
+h1,
+h3,
+h4 {
+  font-family: "Nunito", sans-serif;
+}
+
+#mascot img {
+  max-width: 350px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin-bottom: 0;
+  margin-right: 30px;
+}
