@@ -1,8 +1,24 @@
+::selection {
+  background-color: #eb99a1;
+}
+
 body,
 h1,
+h2,
 h3,
-h4 {
+h4,
+h5,
+h6 {
   font-family: "Nunito", sans-serif;
+}
+
+li {
+  word-wrap: break-word;
+}
+
+br,
+img {
+  user-select: none;
 }
 
 #mascot img {
