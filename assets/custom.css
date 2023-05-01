@@ -24,6 +24,7 @@ img {
 
 #mascot img {
   max-width: 350px;
+  width: 45vw;
   position: fixed;
   right: 0;
   bottom: 0;
