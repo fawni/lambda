@@ -39,3 +39,7 @@ img {
 a:visited {
   color: #eb99a1;
 }
+
+a:visited:hover {
+  color: #da4453;
+}
