@@ -22,6 +22,10 @@ img {
   user-select: none;
 }
 
+.banner img {
+  image-rendering: pixelated;
+}
+
 .banner:hover {
   border-bottom: none;
 }
